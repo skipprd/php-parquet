@@ -88,9 +88,6 @@ echo "Number of rows : " .$num_rows. "\n";
 echo "Number of row groups : " .$num_row_groups. "\n";
 echo "Schema : \n" .$strSchema. "\n";
 
-echo ("+++++++++++++++++++++++++++++++++++++++++++++\n");
-
-
 #echo "Schema : \n" .$strSchema. "\n";
 
 $json = "";
